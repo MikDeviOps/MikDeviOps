@@ -1,8 +1,11 @@
 
-![Header](./your-header-image-name.png)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Gorchakov Mikhail</a><br><br>
+<img src="https://raw.githubusercontent.com/MikDeviOps/MikDeviOps/refs/heads/Master/giphy.webp" height="250"/</h1>
+<br>
+<h3 align="center">Computer science, IT news writer from Russia 🇷🇺</h3>
 
-[https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI
-](https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI)
+
+[![codewars](https://www.codewars.com/users/MikDeviOps/badges/large)](https://www.codewars.com/users/username) 
 
 - 👋 Hi, I’m @MikDeviOps
 - 👀 I’m interested in ...
