@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkycGx6bDZkdnJtN2QzdXRpZzVpOTdua2pweWhzZDZweHAwNXp2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeRdg7gLkfK1ly2mFU/giphy.webp" width="200"/>
-</div>
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/MikDeviOps" target="_blank">Gorchakov Mikhail</a><br><br></h1>
 <br>
 <h3 align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+Python+Developer" alt="Typing SVG" /></a></h3>
